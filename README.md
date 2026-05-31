@@ -34,7 +34,7 @@ The public website is designed for a company-style digital presence with Home, A
 
 | Layer | Technology |
 | --- | --- |
-| Backend | Laravel 13, PHP 8.3+, Inertia Laravel |
+| Backend | Laravel, PHP 8.3+, Inertia Laravel |
 | Frontend | React 18, TypeScript, Inertia React, Vite, Tailwind CSS 4 |
 | Authentication | Laravel session auth, dedicated admin guard, password reset, Google OAuth via Socialite |
 | Authorization | Spatie Laravel Permission with roles and module permissions |
