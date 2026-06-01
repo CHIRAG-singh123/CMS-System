@@ -138,7 +138,8 @@ Change this password before using the project outside local demo or portfolio re
 10. Users: Add or deactivate admin users and assign roles.
 11. Roles & Permissions: Create roles and control module-level actions.
 12. Settings: Update brand identity, contact details, maintenance mode, social links, map, WhatsApp, and Google login settings.
-13. Profile: Update profile information, password, avatar, theme preference, sessions, and two-factor settings.
+13. Profile: Update profile information, password, avatar, theme preference and sessions.
+14. 2FA : Two-factor settings with OTP and Authenticator App also.
 
 ## Public Website Pages
 
